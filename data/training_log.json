@@ -1,0 +1,58 @@
+{
+  "2025-06-22": [
+    {
+      "type": "ServeTraining",
+      "duration": 30,
+      "notes": "Latihan jump serve 15 menit, float serve 15 menit"
+    },
+    {
+      "type": "PassingTraining",
+      "duration": 20,
+      "notes": "Latihan passing rendah dan positioning"
+    },
+    {
+      "type": "ServeTraining",
+      "duration": 20,
+      "notes": "Berlatih jump float"
+    },
+    {
+      "type": "SpikeTraining",
+      "duration": 5,
+      "notes": "Timing and Power Training"
+    }
+  ],
+  "2025-06-23": [
+    {
+      "type": "SpikeTraining",
+      "duration": 25,
+      "notes": "Latihan kekuatan pukulan dan teknik lompat"
+    },
+    {
+      "type": "BlockingTraining",
+      "duration": 15,
+      "notes": "Latihan membaca arah spike lawan"
+    }
+  ],
+  "2025-07-05": [
+    {
+      "type": "ServeTraining",
+      "duration": 10,
+      "notes": "jump float training"
+    },
+    {
+      "type": "PassingTraining",
+      "duration": 10,
+      "notes": "defend and recive training"
+    },
+    {
+      "type": "BlockingTraining",
+      "duration": 5,
+      "notes": "blocking training"
+    },
+    {
+      "type": "SpikeTraining",
+      "duration": 10,
+      "notes": "vertical jump, spike, timing training"
+    }
+  ]
+}
